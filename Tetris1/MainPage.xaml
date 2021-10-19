@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tetris1.MainPage">
+
+    <StackLayout Margin="5,5,5,15" Background="Blue">
+
+        <Grid RowDefinitions="7*,3*" VerticalOptions="FillAndExpand">
+
+            <Label Text="Score:" TextColor="White" HorizontalOptions="Center" Grid.Row="2" ></Label>
+            <Label Text="Lines:" TextColor="White" Grid.Row="2" HorizontalOptions="Center" Grid.Column="1"></Label>
+
+        </Grid>
+
+        <Grid ColumnDefinitions="4" HorizontalOptions="Fill" Margin="0,0,0,0" >
+            <Button Text="Left" Grid.Column="1"/>
+            <Button Text="Up" Grid.Column="2"/>
+            <Button Text="Down" Grid.Column="3"/>
+            <Button Text="Right" Grid.Column="4"/>
+        </Grid>
+        
+    </StackLayout>
+
+</ContentPage>

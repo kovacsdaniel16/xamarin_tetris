@@ -1,0 +1,15 @@
+C:\Users\kovac\source\repos\Tetris1\Tetris1\bin\Debug\netstandard2.0\Tetris1.deps.json
+C:\Users\kovac\source\repos\Tetris1\Tetris1\bin\Debug\netstandard2.0\Tetris1.dll
+C:\Users\kovac\source\repos\Tetris1\Tetris1\bin\Debug\netstandard2.0\ref\Tetris1.dll
+C:\Users\kovac\source\repos\Tetris1\Tetris1\bin\Debug\netstandard2.0\Tetris1.pdb
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.csproj.AssemblyReference.cache
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.AssemblyInfoInputs.cache
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.AssemblyInfo.cs
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.csproj.CoreCompileInputs.cache
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.dll
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\ref\Tetris1.dll
+C:\Users\kovac\source\repos\Tetris1\Tetris1\obj\Debug\netstandard2.0\Tetris1.pdb
